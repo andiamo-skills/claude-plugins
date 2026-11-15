@@ -1,1 +1,20 @@
-{"name":"chat-baton","displayName":"Chat Baton","description":"Passes the baton between chats: when a conversation gets long, writes or updates a structured handoff file so you can continue in a fresh chat without losing context.","version":"1.0.0","license":"MIT","keywords":["handoff","context","productivity","long chats","notes"]}
+{
+  "name": "chat-baton",
+  "displayName": "Chat Baton",
+  "description": "Passes the baton between chats: when a conversation gets long, writes or updates a structured handoff file so you can continue in a fresh chat without losing context.",
+  "version": "1.0.0",
+  "author": {
+    "name": "andiamo-skills",
+    "url": "https://github.com/andiamo-skills"
+  },
+  "homepage": "https://github.com/andiamo-skills/claude-plugins/tree/main/chat-baton",
+  "repository": "https://github.com/andiamo-skills/claude-plugins",
+  "license": "MIT",
+  "keywords": [
+    "handoff",
+    "context",
+    "productivity",
+    "long chats",
+    "notes"
+  ]
+}
