@@ -1,1 +1,21 @@
-{"name":"termkeeper","displayName":"Termkeeper","description":"Explains English study or work material in your own language while keeping technical and key terms in English, with a short glossary and short answers to quick questions.","version":"1.0.0","license":"MIT","keywords":["study","language","learning","glossary","students","translation"]}
+{
+  "name": "termkeeper",
+  "displayName": "Termkeeper",
+  "description": "Explains English study or work material in your own language while keeping technical and key terms in English, with a short glossary and short answers to quick questions.",
+  "version": "1.0.0",
+  "author": {
+    "name": "andiamo-skills",
+    "url": "https://github.com/andiamo-skills"
+  },
+  "homepage": "https://github.com/andiamo-skills/claude-plugins/tree/main/termkeeper",
+  "repository": "https://github.com/andiamo-skills/claude-plugins",
+  "license": "MIT",
+  "keywords": [
+    "study",
+    "language",
+    "learning",
+    "glossary",
+    "students",
+    "translation"
+  ]
+}
