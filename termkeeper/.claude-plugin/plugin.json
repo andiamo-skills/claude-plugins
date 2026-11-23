@@ -1,8 +1,8 @@
 {
   "name": "termkeeper",
   "displayName": "Termkeeper",
-  "description": "Explains English study or work material in your own language while keeping technical and key terms in English, with a short glossary and short answers to quick questions.",
-  "version": "1.0.0",
+  "description": "Explains study or work material (usually English) in your own language while keeping technical and key terms in the material's language, with a short glossary and short answers to quick questions.",
+  "version": "1.1.0",
   "author": {
     "name": "andiamo-skills",
     "url": "https://github.com/andiamo-skills"
