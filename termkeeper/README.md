@@ -15,11 +15,7 @@ You don't need to ask for a language: writing in one language about material in 
 - Ask "Explica esta diapositiva sobre el WACC" about English slides: Claude explains in Spanish, writing **WACC**, **cost of equity** and **capital structure** as they appear in the slides.
 
 ## Install
-From Claude's plugin directory (search "Termkeeper"), or in Claude Code:
-```
-/plugin marketplace add andiamo-skills/claude-plugins
-/plugin install termkeeper@andiamo-skills
-```
+From Claude's plugin directory: search "Termkeeper".
 
 ## Changelog
 - **1.2.0 — Use case update:** works with any material, not only study (documents, contracts, reports, manuals, articles), and starts on its own when your message and the material are in different languages.
