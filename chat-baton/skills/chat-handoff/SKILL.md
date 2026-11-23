@@ -1,6 +1,6 @@
 ---
 name: chat-handoff
-description: Use when a chat is very long or slow, a topic is done, or the user says 'handoff', 'new chat', 'let's wrap up here': write or update a short, structured handoff .md file and guide the user to continue in a fresh chat without losing context.
+description: "Use when a chat is very long or slow, a topic is done, or the user says 'handoff', 'new chat', 'let's wrap up here' - write or update a short, structured handoff .md file and guide the user to continue in a fresh chat without losing context."
 ---
 
 # Chat handoff
