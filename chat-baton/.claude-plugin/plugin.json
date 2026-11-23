@@ -1,7 +1,7 @@
 {
   "name": "chat-baton",
   "displayName": "Chat Baton",
-  "description": "Passes the baton between chats: when a conversation gets long, writes or updates a structured handoff file so you can continue in a fresh chat without losing context.",
+  "description": "Passes the baton between chats: when a conversation gets long, writes or updates a short, structured handoff file so you can continue in a fresh chat without losing context. Needs one rule in your instructions (see README).",
   "version": "1.0.0",
   "author": {
     "name": "andiamo-skills",
