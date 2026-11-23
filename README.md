@@ -6,10 +6,3 @@ Two small Claude plugins, each made of one skill:
 - [chat-baton](chat-baton) — writes a handoff file so you can continue a long chat in a fresh one.
 
 Each folder is a separate plugin with its own README and MIT license.
-
-## Install in Claude Code
-This repository is also a plugin marketplace:
-```
-/plugin marketplace add andiamo-skills/claude-plugins
-/plugin install termkeeper@andiamo-skills
-```
